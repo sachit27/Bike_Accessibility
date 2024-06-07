@@ -1,0 +1,371 @@
+Station,lat,lon
+1 - Central do Brasil,-22.904152,-43.190611
+2 - Praça da República,-22.907434,-43.190287
+3 - Praça Tiradentes,-22.906848,-43.181887
+4 - Largo de São Francisco,-22.905594,-43.18007
+5 - Largo da Carioca,-22.907873975195532,-43.1776941415977
+6 - Praça Marechal Âncora,-22.90411,-43.171636
+7 - Bossa Nova Mall,-22.914619,-43.167037
+8 - MAM,-22.912771,-43.172129
+9 - Sala Cecília Meirelles,-22.913925,-43.178669
+10 - Largo da Glória,-22.920544,-43.177391
+11 - Praça Luiz de Camões,-22.92074,-43.1746
+12 - Artur Bernardes,-22.928415,-43.179264
+13 - Parque Guinle,-22.932168,-43.182297
+14 - Pereira da Silva,-22.933408,-43.185815
+15 - Alegrete,-22.938564,-43.193592
+16 - Praça São Judas Tadeu,-22.94057,-43.198005
+17 - Oswaldo Cruz,-22.938452,-43.173577
+18 - Praça Nicarágua,-22.940958,-43.177242
+19 - Guilhermina Guinle,-22.949624,-43.188683
+20 - Cobal,-22.953847,-43.196941
+21 - Real Grandeza,-22.954165,-43.192913
+22 - General Polidoro,-22.957157,-43.188818
+23 - Pró Cardíaco Botafogo,-22.956109,-43.185633
+24 - Lauro Müller,-22.956292,-43.177169
+25 - UFRJ Praia Vermelha,-22.952592422138423,-43.17625485508651
+26 - Iate Clube,-22.953387,-43.173126
+27 - Pedra do Leme,-22.962102,-43.165407
+28 - Praça Demétrio Ribeiro,-22.961823,-43.175519
+30 - Santa Clara 98,-22.970645,-43.187914
+31 - Santa Clara,-22.972278,-43.186443
+32 - Bolívar,-22.975924,-43.188813
+33 - Almirante Gonçalves,-22.979976,-43.190754
+34 - Conselheiro Lafaiete,-22.986346,-43.192073
+35 - Pedra do Arpoador,-22.988905,-43.191618
+36 - Joaquim Nabuco,-22.987292,-43.196126
+352 - Gomes Carneiro,-22.986306,-43.197449
+38 - Garcia D'Ávila,-22.98582,-43.209282
+39 - Aníbal de Mendonça,-22.98545,-43.211511
+40 - Afrânio,-22.986212,-43.217517
+41 - Maria Quitéria,-22.980631,-43.207046
+42 - Metrô Lagoa,-22.979019,-43.200969
+43 - Parque da Catacumba,-22.975651,-43.200159
+44 - Epitácio Pessoa 4224,-22.969634,-43.205854
+45 - Epitácio Pessoa 4794,-22.965488,-43.203574
+46 - Clube Piraquê,-22.96642,-43.216724
+47 - Parque dos Patins,-22.972408,-43.217447
+48 - Parque das Figueiras,-22.976067,-43.218609
+49 - Shopping da Gávea,-22.975478,-43.227881
+50 - Praça Sibélius,-22.977731,-43.22643
+51 - Cidade Nova,-22.910637,-43.205672
+52 - Medalha Milagrosa,-22.915634,-43.212431
+53 - Gaffrée e Guinle,-22.915849,-43.221549
+54 - Morais e Silva,-22.912523,-43.222273
+55 - Mata Machado,-22.912498,-43.226217
+56 - Praça Varnhagen,-22.919349,-43.23363
+57 - Praça Niterói,-22.915817,-43.235028
+58 - Estádio Célio de Barros,-22.912545,-43.233993
+59 - Boulevard 28 de setembro 157,-22.914761,-43.240117
+60 - Maxwell,-22.920075,-43.243779
+61 - SESC Tijuca,-22.9243556,-43.2422748
+62 - Colégio N. S. da Misericórdia,-22.925761,-43.245579
+63 - Praça Xavier de Brito,-22.932195,-43.242762
+64 - Metrô Uruguai,-22.932108,-43.239622
+65 - Metrô Uruguaiana,-22.90262,-43.182229
+66 - Estação de Bondes,-22.910029,-43.178429
+67 - Gomes Freire,-22.912732,-43.182991
+68 - Rua do Catete,-22.923425,-43.177206
+69 - Palácio do Catete,-22.926982,-43.176526
+70 - Praça São Salvador,-22.93403,-43.1798
+343 - Figueiredo De Magalhães 28,-22.971441181662936,-43.1849098407689
+73 - Furnas,-22.956443,-43.191601
+74 - Visconde de Caravelas,-22.956734,-43.194864
+75 - Pinheiro Guimarães,-22.958822,-43.196413
+76 - Baixo Gávea,-22.9731047,-43.2252855
+77 - Cine Leblon,-22.980997,-43.221066
+78 - Fashion Mall,-22.996072,-43.258595
+79 - São Conrado,-22.998672,-43.257936
+80 - Praça São Conrado,-23.000536,-43.270801
+81 - General Venâncio Flores,-22.986208,-43.224574
+82 - Antero de Quental,-22.984952,-43.223151
+83 - Cupertino Durão,-22.986733,-43.220182
+84 - Ataulfo de Paiva,-22.983846,-43.219619
+85 - Jardim de Alah,-22.983844,-43.215927
+86 - Henrique Dumont,-22.986038,-43.213832
+87 - Barão da Torre 631,-22.9828,-43.212324
+88 - Barão da Torre 577,-22.982969,-43.209327
+89 - Praça Nossa Senhora da Paz,-22.98424,-43.206539
+90 - Joana Angélica,-22.984911,-43.205035
+91 - Visconde de Pirajá,-22.984406,-43.203105
+92 - Alberto de Campos,-22.981233,-43.202799
+93 - Praça Nossa Senhora Auxiliadora,-22.977866913733774,-43.22225418017882
+94 - Farme de Amoedo 118,-22.982509,-43.200572
+95 - General Osório,-22.984724,-43.197051
+96 - Posto 6,-22.986497,-43.189385
+97 - Júlio de Castilhos,-22.98388,-43.190429
+98 - Bulhões de Carvalho,-22.984628,-43.193377
+99 - Sá Ferreira,-22.981934,-43.195018
+100 - Souza Lima,-22.981799,-43.190875
+101 - Leopoldo Miguez,-22.977519,-43.19171
+102 - Metrô Cantagalo,-22.976476,-43.194224
+103 - Barão de Ipanema,-22.974293,-43.190964
+104 - Assunção,-22.943651,-43.185984
+105 - Dias da Rocha,-22.973054,-43.188691
+107 - Figueiredo Magalhães,-22.966082,-43.189412
+109 - Metrô Siqueira Campos,-22.967553,-43.18733
+111 - Siqueira Campos,-22.970306,-43.183725
+112 - Mureta da Urca,-22.950328,-43.167521
+113 - República do Peru,-22.965945058825024,-43.183260880356606
+114 - Cardeal Arcoverde,-22.964994,-43.180422
+116 - Praça do Lido,-22.96479,-43.175808
+117 - Antônio Vieira,-22.964181,-43.172378
+118 - Anchieta,-22.963325710911985,-43.16987662513122
+119 - Parque Lage,-22.961231,-43.211659
+120 - Rua da Passagem,-22.952383,-43.182368
+121 - Mourisco,-22.949665,-43.180933
+122 - Botafogo Praia Shopping,-22.947821,-43.182595
+123 - Bambina,-22.949342456091344,-43.18606694536896
+124 - Praça Joia Valansi,-22.945302,-43.183939
+125 - Edifício Argentina,-22.942719,-43.180859
+126 - Clarice Índio do Brasil,-22.940035,-43.178655
+127 - Honório de Barros,-22.939106,-43.176488
+128 - Palácio da Cidade,-22.951258,-43.193996
+129 - Voluntários 229,-22.953276,-43.189421
+131 - Metrô Botafogo,-22.951815,-43.184037
+132 - Escola Eleva,-22.953549,-43.17946
+133 - Pasteur,-22.954075,-43.168657
+134 - Pão de Açúcar,-22.954261,-43.16483
+136 - Metrô Flamengo,-22.937276,-43.178053
+137 - Tucumam,-22.935127752576683,-43.17401294715194
+138 - Praça José de Alencar,-22.933479,-43.177603
+139 - Buarque de Macedo,-22.929609,-43.173929
+140 - Largo do Machado,-22.930687,-43.177714
+141 - Barra Shopping,-22.999406,-43.356646
+142 - Praia do Flamengo,-22.927129,-43.173542
+143 - Fluminense,-22.93597,-43.184319
+145 - Praça David Ben Gurion,-22.937868,-43.19026
+146 - Planetário da Gávea,-22.979209,-43.23102
+148 - Bartolomeu Mitre,-22.981574,-43.223721
+149 - Rainha Guilhermina,-22.98522,-43.226655
+150 - Praça Atahualpa,-22.988057,-43.227707
+152 - Parque Brig. Faria Lima,-22.978955,-43.217122
+153 - Epitácio Pessoa,-22.980478,-43.211
+154 - Curva do Calombo,-22.973872,-43.205277
+155 - Viaduto Saint Hilaire,-22.963035,-43.204214
+157 - Borges de Medeiros,-22.962884,-43.207324
+158 - Lagoa Vasco da Gama,-22.962989,-43.209233
+159 - Hospital da Lagoa,-22.962706,-43.216168
+160 - Lineu de Paula Machado,-22.964274,-43.216241
+161 - Jd. Botânico 716,-22.965475,-43.218812
+162 - Pacheco Leão,-22.965293,-43.222501
+163 - Viúva Lacerda,-22.957188,-43.198877
+164 - Shopping Tijuca,-22.921632,-43.236022
+165 - Tijuca off shopping,-22.923657,-43.235984
+166 - Rabicho Tijuca,-22.925892,-43.235231
+167 - Metrô Saens Pena,-22.924436,-43.232603
+168 - Barão de Mesquita 174,-22.920885,-43.231908
+169 - Conde de Bonfim 526,-22.928453,-43.236745
+170 - Pereira de Siqueira,-22.920778,-43.22737
+171 - Colégio Militar,-22.91637,-43.22641
+172 - Maracanãzinho,-22.91525,-43.229358
+173 - SENAI Tijuca,-22.915517,-43.232327
+174 - São Cristóvão,-22.910887,-43.223474
+175 - Félix da Cunha,-22.922963,-43.222357
+176 - Radial Oeste,-22.910669,-43.222438
+177 - Senador Furtado,-22.910341,-43.220415
+178 - Praça da Bandeira,-22.912239,-43.215234
+179 - Haddock Lobo,-22.920984,-43.21863
+180 - Joaquim Palhares,-22.91255,-43.21033
+181 - Júlio do Carmo,-22.910538,-43.202407
+182 - Metrô Praça Onze,-22.909654,-43.200089
+183 - Defensoria Pública,-22.908761918481915,-43.16958519084206
+184 - Cinelândia,-22.910896,-43.175531
+185 - Rua da Lapa,-22.915535,-43.177851
+186 - Lúcio de Mendonça,-22.915451,-43.224546
+187 - Extra Mariz e Barros,-22.91791,-43.223971
+188 - Metrô São Francisco Xavier,-22.920432,-43.222574
+189 - Mariz e Barros,-22.914512,-43.21935
+190 - Metrô Afonso Pena,-22.91793,-43.217588
+192 - Saens Pena Medical Center,-22.923702,-43.229355
+193 - Uruguai,-22.928838029428295,-43.24337124910849
+194 - Batalhão de Polícia do Exército,-22.924204,-43.238897
+195 - Senador Muniz Freire,-22.921017,-43.240144
+196 - Ribeiro Guimarães,-22.918668,-43.237611
+197 - Octacílio Negrão de Lima,-22.917976,-43.241554
+198 - Conde de Bonfim,-22.924745,-43.226439
+199 - Metrô Estácio,-22.9129304632136,-43.20610118657759
+200 - Armazém da Utopia,-22.8932617,-43.19071100000001
+201 - AquaRio,-22.892672,-43.19325
+202 - Armazém 3,-22.89476,-43.186436
+203 - Praça Mauá,-22.896865,-43.181523
+204 - São Bento,-22.898395,-43.179494
+205 - Praça Barão de Ladário,-22.898935,-43.176871
+206 - Tribunal Marítimo,-22.901348,-43.174971
+207 - R. da Alfândega,-22.902055,-43.178977
+208 - Av. Passos,-22.902012,-43.184297
+209 - Rua da Quitanda,-22.904005,-43.176561
+210 - Praça XV,-22.902256,-43.173943
+212 - Buraco do Lume,-22.906208,-43.175917
+213 - Praça do Expedicionário,-22.906758,-43.172874
+214 - Poeta Manuel Bandeira,-22.910231,-43.171988
+215 - Aeroporto Santos Dumont,-22.911303,-43.168147
+217 - Balança Mas Não Cai,-22.906336,-43.193822
+219 - Moncorvo Filho,-22.909863,-43.192116
+220 - Santuário Nossa Senhora de Fátima,-22.912412,-43.19205
+221 - Rua do Riachuelo,-22.914633,-43.185165
+222 - Rua do Senado,-22.910626,-43.189274
+223 - Henrique Valadares,-22.911129,-43.185822
+224 - Catedral Metropolitana,-22.909549,-43.180911
+225 - República do Líbano,-22.907336,-43.185757
+226 - Rua do Rezende,-22.913766,-43.188012
+227 - Saara Buenos Aires,-22.905364,-43.185103
+228 - Praça do Itamaraty,-22.90346,-43.187208
+229 - Hotel Novo Mundo,-22.924956,-43.172841
+230 - Metrô São Conrado,-22.993594,-43.253625
+231 - Prefeito Mendes de Morais,-22.99956,-43.266257
+232 - Parque Madureira I,-22.870154,-43.340157
+233 - Parque Madureira II,-22.856222,-43.351914
+234 - Pier Barra da Tijuca,-23.01446,-43.297974
+235 - R. Tenente Airton Pereira,-23.014507,-43.301609
+236 - Praça Jornalista Mário Filho,-23.014772,-43.306659
+237 - Adilson Serôa da Motta,-23.013687,-43.309691
+238 - Port Brise,-23.013824,-43.313852
+239 - Praça São Perpétuo,-23.012993,-43.317209
+240 - Windsor Barra,-23.0121746,-43.3212711
+241 - Posto 4 Barra,-23.011268,-43.325769
+242 - Posto 5 Barra,-23.010631,-43.331118
+244 - Condomínio Vivendas,-23.010233,-43.339543
+246 - Barrabella,-23.010119,-43.345015
+247 - Praça Pimentinha,-23.003723,-43.325224
+248 - Downtown,-23.00429,-43.320717
+250 - Professor Souza Araújo,-23.007213,-43.316902
+252 - Parque das Rosas,-23.000749,-43.351815
+253 - Olegário Maciel,-23.012581,-43.305169
+254 - Museu do amanhã,-22.896688,-43.180564
+255 - Praça Euvaldo Lodi,-23.008688,-43.304132
+256 - Humaitá,-22.960477,-43.202726
+257 - Metrô Jardim Oceânico,-23.007348,-43.310954
+259 - Posto 9 Recreio,-23.022885,-43.44945
+260 - Posto 12 Recreio,-23.030275,-43.468991
+261 - Praça Soldado Geraldo da Cruz,-23.010153,-43.320955
+262 - Jardim Marapendi,-23.01011,-43.35092
+263 - Almare,-23.010269,-43.357176
+264 - Alfa Barra,-23.010788,-43.364867
+267 - Terminal Alvorada Leste,-23.001951,-43.364566
+271 - Alfa Barra II,-23.010769,-43.369417
+285 - Gláucio Gil Praia,-23.025158,-43.457011
+287 - Dez e meio,-23.02722,-43.463301
+290 - Barra World,-23.00989,-43.441094
+293 - Praia da Macumba,-23.03135,-43.479584
+295 - Clube Caiçaras,-22.98063,-43.2132
+309 - AQWA Corporate,-22.893595,-43.196273
+304 - Marechal Jofre,-22.918949,-43.265701
+335 - Teófilo Otoni,-22.90013,-43.17902
+344 - Pirajá 153,-22.984553,-43.199943
+314 - AABB Tijuca,-22.91919,-43.21365
+144 - Casas Casadas,-22.93517,-43.18853
+151 - Shopping Leblon,-22.98214,-43.21791
+318 - Maxwell 431,-22.922514,-43.247541
+251 - Campo de São Cristóvão,-22.89841,-43.21942
+288 - Campo de São Cristóvão 2,-22.89562,-43.22044
+322 - Tijolinho,-22.924527,-43.25157
+243 - Rua São Cristóvão,-22.901789,-43.21728
+302 - Voluntários da Pátria,-22.95221,-43.18683
+320 - Silva Pinto,-22.9163,-43.2477
+351 - Constante Ramos,-22.97458,-43.18787
+280 - Praça Edmundo Rêgo,-22.92278,-43.26436
+330 - Praça da Apoteose,-22.91418,-43.19595
+353 - Janeiro Hotel,-22.98659,-43.22268
+130 - General Glicério,-22.94019,-43.19166
+310 - Bairro de Fátima,-22.91656,-43.18829
+312 - Lavradio,-22.90921,-43.1832
+328 - Chafariz do Lagarto,-22.91173,-43.19511
+211 - Quinta da Boa Vista,-22.909385,-43.222671
+218 - Praça Pedro II,-22.904475,-43.218258
+258 - Largo Pedro Lobiano,-22.899794,-43.222834
+284 - Praça Waldemar Costa e Silva,-22.907086,-43.217758
+291 - Paróquia de São Cristóvão,-22.895927,-43.215529
+317 - HUPE,-22.914022967612794,-43.23756358745362
+324 - Aristides Lobo,-22.920513333275455,-43.208599946696474
+325 - Praça Condessa Paulo de Frontin,-22.92444,-43.2092
+341 - Colégio Sion,-22.93822,-43.19518
+275 - ASBAC,-22.92402,-43.25465
+315 - E. M. Mário Cláudio,-22.91744,-43.21128
+316 - Extra Maracanã,-22.9278852,-43.2397442
+321 - Boulevard Rio Shopping,-22.91878,-43.25074
+327 - McDonald's Off Shopping,-22.92302,-43.23444
+292 - Praça Desembargador Araújo Jorge,-23.0103797,-43.2972309
+303 - Carvalho de Mendonça,-22.96542067152967,-43.17840656864776
+311 - Sinuca da Lapa,-22.91403004084207,-43.182339298147575
+340 - Praia de Botafogo,-22.94583,-43.18253
+301 - Bartolomeu Portela,-22.95085,-43.17622
+300 - Fernandes Guimarães,-22.954712719105327,-43.18253815893022
+346 - Av. Maracanã,-22.917395,-43.231146
+357 - Teodoro da Silva,-22.9198552,-43.2570098
+249 - Edifício São Januário,-22.898963,-43.2259274
+354 - Quinta D'Or,-22.9057994,-43.2203959
+72 - Promenade São Clemente,-22.949928,-43.1909853
+245 - Rua Sabino Vieira,-22.901672,-43.225704
+319 - Visconde de Abaeté,-22.9158049,-43.243872
+323 - Rua do Bispo,-22.92343994765997,-43.21305753316993
+106 - VLT Rodoviária,-22.8991715,-43.2074682
+71 - Palácio Guanabara,-22.93894,-43.18317
+270 - Praça Professor Francisco D'Áuria,-22.923828479371657,-43.25865546868247
+350 - Hilário de Gouvêia,-22.96971,-43.18286
+358 - Praça Gabriel Soares,-22.9309236,-43.2344362
+108 - Pereira Reis,-22.89741,-43.20272
+115 - Rodolfo Dantas,-22.965966132402528,-43.17905927264871
+156 - Highlight Botafogo,-22.955638633857,-43.178091855369196
+216 - Maison Laranjeiras,-22.933015735629855,-43.18356057861562
+282 - Parque Recanto do Trovador,-22.917019,-43.261711
+294 - Largo da Memória,-22.97913576902897,-43.22459869538674
+296 - Parque dos Pedalinhos,-22.973562747198486,-43.20207653320466
+299 - Radial Sul,-22.946076878118873,-43.18797766069396
+305 - Túnel Velho,-22.963910060234934,-43.1921121398834
+306 - Rua Paissandu,-22.93675046480389,-43.18222993936238
+326 - Dona Delfina,-22.92991338792089,-43.24059524836115
+331 - Evaristo da Veiga,-22.910578939720654,-43.177316643516534
+333 - General Justo,-22.907101223015545,-43.168751912783414
+336 - Glória D'Or,-22.921225242049687,-43.180330721045856
+337 - Silveira Martins,-22.92590030591007,-43.178361005175226
+338 - Fernando Osório,-22.936576729406855,-43.17582388949033
+339 - Universidade Santa Úrsula,-22.940787487584355,-43.18245844024147
+342 - Quinta da Boa Vista 2,-22.908778654796723,-43.222432241384226
+345 - Padre Leonel Franca,-22.97883108786041,-43.22887072088093
+348 - Rua do Catete 117,-22.924784895417577,-43.176630623119145
+349 - Instituto Benjamin Constant,-22.953379467196385,-43.17109629523261
+355 - Francisco Otaviano,-22.98768005762471,-43.19390448680057
+377 - UERJ - SENAI,-22.9116666294946,-43.2375196181034
+382 - Mirante da Niemeyer,-22.990783110382488,-43.22920162383427
+389 - IBMR Barra,-23.001104456815778,-43.333885315308336
+390 - Pontal de Sernambetiba,-23.031448603893704,-43.47296960987963
+391 - Gláucio Gil,-23.012093329127296,-43.457728240024316
+392 - Recreio Shopping,-23.0196654038079,-43.48836837014446
+402 - Aristides Lôbo 214,-22.92299996303571,-43.20875880910198
+37 - Posto 9,-22.986134502898402,-43.200803369824534
+29 - Praça Manuel Campos da Paz,-22.96707125707485,-43.18172836526188
+135 - Acesso C - Metrô Botafogo,-22.94947173112332,-43.18395552704271
+147 - General Artigas,-22.983590148580102,-43.22643785585382
+272 - Praça Malvino Reis,-22.919666135075726,-43.2621060678885
+278 - Roberto Dias Lopes,-22.963405943471827,-43.173187727348115
+283 - Rua das Laranjeiras,-22.93206478091119,-43.18104807062522
+307 - Almirante Tamandaré,-22.932101518898918,-43.17481444109675
+308 - Graça Aranha,-22.908314617795074,-43.174490920133906
+334 - Fundição Progresso,-22.912604677591847,-43.18073386644434
+366 - Muda,-22.93227719664065,-43.24642706934705
+373 - Instituto de Pesquisa Jardim Botânico,-22.96545961284751,-43.22801179721634
+380 - Largo Maria Portugal,-22.936678771790188,-43.190031178626704
+383 - Morro da Viúva,-22.941654743623744,-43.17314390967018
+404 - Largo do Catumbi,-22.91749173782135,-43.1947381145083
+425 - Hospital Espanhol,-22.913238990157907,-43.190989289385314
+265 - Praça Marechal Hermes,-22.90047,-43.20763
+361 - Sãens Peña - General Roca,-22.92515,-43.23301
+381 - Lauro Sodré,-22.95632,-43.17733
+393 - Alzirão,-22.92472,-43.22436
+394 - Fundação Bradesco,-22.92015130827581,-43.215253349737544
+406 - Praça Maracanã,-22.913406032764424,-43.23497743869248
+407 - Hospital do Câncer,-22.924943781796703,-43.21051208220902
+436 - Largo da Prainha,-22.897196984929373,-43.18405477123336
+437 - Praça Paris,-22.917126008520384,-43.17698217361068
+438 - Praça da Harmonia,-22.895114241059485,-43.19061140429916
+440 - SENAC Bambina,-22.947158450241005,-43.18569440370484
+448 - Dataprev - Botafogo,-22.953582123369433,-43.18608636322937
+449 - Sérgio Porto,-22.959027730248984,-43.19995120605467
+450 - Novotel Leme,-22.961999097349757,-43.16833728161468
+451 - Viveiros de Castro,-22.96383868889769,-43.176385317649824
+452 - Tonelero,-22.966757524437995,-43.185181890772625
+453 - Museu da Imagem e do Som (MIS),-22.979092486555228,-43.18977285029717
+454 - Copanema,-22.983758187799356,-43.19400926011887
+515 - Praça do Ipê,-22.97689949408983,-43.23069917420501
+439 - Dois de Dezembro,-22.92981910823955,-43.17725982023773

@@ -1,0 +1,492 @@
+Station,lat,lon
+CE-407  Prolongación Xochicalco-General Emiliano Zapata,19.367209,-99.15872
+CE-428  Prolongación Uxmal-Av. Popocatépetl (Eje 8),19.363404,-99.160395
+CE-427 Avenida México-Coyoacán-Av. Popocatépetl (Eje,19.364912,-99.162968
+CE-443 Bruno Traven-Golondrinas,19.359583,-99.162085
+CE-423 Moras-José María Rico (Eje 8),19.367816,-99.175269
+CE-438 Adolfo Prieto-José María Olloqui,19.36473,-99.174447
+CE-415 San Francisco-Parroquia,19.37099,-99.176135
+CE-417 Goya-Augusto Rodin,19.373198,-99.184274
+CE-022 Reforma - Manchester,19.424784,-99.172119
+CE-094 Lic. Verdad-Moneda,19.433766,-99.130918
+CE-405 División Del Norte-Municipio Libre,19.3705556,-99.1566667
+CE-375 Tenayuca-División Del Norte,19.376997,-99.158779
+CE-394 Dr. Roberto Gayol-Félix Cuevas,19.372474,-99.171639
+CE-337 San Borja-Martín Mendalde,19.384849,-99.16704
+CE-412 Parroquia-Avenida Universidad,19.368107,-99.164376
+CE-381 San Lorenzo-Manzanas,19.375543381100602,-99.17801052342838
+CE-332 Calle 27-Avenida 3,19.385494,-99.183744
+CE-399 Heriberto Frías-San Lorenzo,19.372469,-99.164538
+CE-377 Heriberto Frías-Miguel Laurent,19.375397,-99.163778
+CE-360 Heriberto Frías-Matias Romero,19.379435,-99.162794
+CE-362 Augusto Rodin-Alberto Balderas,19.382109,-99.181056
+CE-365 Holbein-Avenida Revolución,19.381123,-99.18667
+CE-424 Amores-José María Rico (Eje 8),19.36715,-99.17055
+CE-421 María Luz Bringas-Oso,19.36952,-99.179421
+CE-287 13 de Septiembre-Puente de la Morena,19.398946,-99.183254
+CE-288 11 de Abril-Avenida 2,19.396359,-99.183579
+CE-372 Dr. Roberto Gayol-Tlacoquemécatl,19.377966,-99.170272
+CE-434 Jose María Olloqui-Amores,19.363741,-99.171268
+CE-439 Amores-Avenida Coyoacán,19.362037,-99.172683
+CE-378 Miguel Laurent-Amores,19.375865,-99.168219
+CE-437 Moras-Comunal,19.364916,-99.175985
+CE-374 Pitágoras-Pilares,19.376918,-99.16108
+CE-384 Empresa-Poussin,19.375865,-99.185573
+CE-348 Indiana-Avenida San Antonio,19.38542,-99.17823
+CE-397 San Lorenzo-Gabriel Mancera,19.37313576931919,-99.16706666355822
+CE-353 Carolina-Holbein,19.38213,-99.178814
+CE-387 Cadiz-Empresa,19.374267,-99.180546
+CE-367 Boston -Augusto Rodin,19.379593,-99.181351
+CE-390-391 Oso-Félix Cuevas,19.373161,-99.178243
+CE-303 Montecito-Av. Insurgentes,19.394861698080163,-99.17300574486944
+CE-370 Tlacoquemécatl-Av. Insurgentes,19.378827,-99.176944
+CE-354 Boston-Av. Insurgentes,19.381714,-99.176664
+CE-333 Georgia-Carolina,19.387624,-99.180978
+CE-445-446 Riff-Avenida Río Churubusco,19.358934,-99.156064
+CE-429 Pirineos-Av. Popocatépetl (Eje 8),19.363049,-99.158436
+CE-414 Parroquia-José Ignacio Bartolache,19.370221,-99.173862
+CE-432 Carrillo Puerto-Avenida México-Coyoacan,19.361245,-99.16239
+CE-358 Nicolás San Juan-Matias Romero,19.380087,-99.16427
+CE-409 Azores-División Del Norte,19.365125,-99.155477
+CE-413 Parroquia-Avenida Coyoacán,19.369823,-99.172164
+CE-345 Patricio Sanz - Miraflores,19.384447,-99.172039
+CE-419 Actipan-Cadiz,19.370615,-99.181606
+CE-307 Minnesota-Dakota,19.393711808925048,-99.17581468826029
+CE-361 Porfirio Díaz-Capulín,19.380691,-99.175036
+CE-393 Adolfo Prieto-Félix Cuevas,19.373307,-99.172471
+CE-306 Dakota-Filadelfia,19.393699,-99.175664
+CE-349 Augusto Rodin-Avenida San Antonio,19.385632,-99.180848
+CE-284 Dakota-Vermont,19.397693,-99.172981
+CE-308 Nueva York-Arizona,19.393643,-99.178156
+CE-312 Avenida 2-Calle 7,19.392634,-99.183737
+CE-325 Providencia -Avenida Del Valle,19.38817793281278,-99.16966706519814
+CE-327 Georgia -Pensilvania,19.38885,-99.17772
+CE-335 Magdalena-Ameyalco,19.386989,-99.173438
+CE-324 Amores-Avenida Eugenia,19.387342,-99.165629
+CE-59 Popocatépetl - Ámsterdam,19.415237,-99.16659
+CE-072 Mazatlán - Alfonso Reyes,19.409859,-99.179565
+CE-067 Vicente Suárez - Michoacán,19.411813726946605,-99.17595729242748
+CE-343 Enrique Rébsamen-División Del Norte,19.384086716282237,-99.16083633910603
+CE-330 Calle 15-Avenida Patriotismo,19.389358,-99.182606
+CE-315 Alabama-Montana,19.391472,-99.1736
+CE-341 San Borja-Avenida Cuauhtémoc,19.382889,-99.158352
+CE-300 Providencia -Luz Saviñón,19.393228574754442,-99.16839435702059
+CE-074 Nuevo León - Ozulama,19.410468,-99.172802
+CE-042 Sinaloa - Valladolid,19.420627,-99.16821
+CE-076 Chilpancingo - Campeche,19.4086886,-99.169938
+CE-064 Sonora - Ámsterdam,19.41298624243399,-99.16696842761212
+CE-056 Alvaro Obregón - Medellin,19.417102,-99.165607
+CE-071 Amsterdam - Michoacan,19.411361,-99.171271
+CE-083 Alfonso Reyes - Nuevo León,19.40655,-99.172275
+CE-081 Aguascalientes - Insurgentes,19.407927,-99.168734
+CE-079 Saltillo - Alfonso Reyes,19.407548521979454,-99.17434785516434
+CE-128 Orizaba-Río de Janeiro,19.422148,-99.160645
+CE-049 Mazatlán - Juan de la Barrera,19.41689,-99.17562
+CE-066 Mazatlán - Francisco Márquez,19.411825,-99.178456
+CE-040 Oaxaca - Puebla,19.42235098990008,-99.16417356581859
+CE-053 Fernando Montes de Oca - Tula,19.4148233,-99.1783527
+CE-046 Durango - Salamanca,19.41910678068996,-99.16973479097578
+CE-447 Agustín Melgar-Zamora,19.418879,-99.176854
+CE-060 Mazatlán - Fernando Montes de Oca,19.414099314684794,-99.17715847497675
+CE-302 Luz Saviñón-Magdalena,19.393914210245562,-99.1716746986458
+CE-070 Parque México - Michoacán,19.41128,-99.169825
+CE-125 Morelia-Circular de Morelia,19.424197,-99.156127
+CE-100 20 de Noviembre-Mesones,19.428485,-99.1338
+CE-105 San Jerónimo-5 de Febrero,19.426755,-99.135014
+CE-102 Echeveste-Bolivar,19.428214,-99.139494
+CE-097 República de Salvador-Pino Suárez,19.429189,-99.132759
+CE-099 Ernesto Pugibet-Luis Moya,19.429947,-99.14591
+CE-107-108 Tolsa-Balderas,19.427305,-99.149533
+CE-122 José María Vértiz-Av. Dr. Río de la Loza,19.425502,-99.146337
+CE-029 Reforma - Bucareli,19.434944,-99.150295
+CE-110 Dr. Valenzuela-Dr. Río de la loza,19.425126,-99.143391
+CE-093 Palma Norte-República de Cuba,19.436741,-99.134811
+CE-091 Republica de Cuba-Allende,19.4374,-99.137571
+CE-112 Av. Morelos-Abraham González,19.432819,-99.151734
+CE-065 Marconi - Tacuba,19.436522,-99.139811
+CE-088 2a Cerrada de 5 de Mayo - Palma,19.433757,-99.135331
+CE-003 Reforma - Insurgentes,19.43163,-99.158547
+CE-109 Nezahualcóyotl-Isabel la Católica,19.425311,-99.137421
+CE-113 General Prim-Versalles,19.430369,-99.154419
+CE-123 Claudio Bernard-Dr. Lavista,19.424161,-99.153117
+CE-259 Tómas Alva Edison-Ponciano Arriaga,19.437569,-99.15468
+CE-260 Av. Juárez-Balderas,19.43531137040153,-99.14778560405466
+CE-016 Reforma - Río Tiber,19.4267528,-99.16861944
+CE-025 Reforma - Estocolmo,19.427338,-99.16672
+CE-116 Londres-Roma,19.428985,-99.15664
+CE-019 Reforma - Río Rhin,19.429453,-99.16283
+CE-005 Río Pánuco Río Tiber,19.429804,-99.169451
+CE-261 Paseo de la Reforma-Río de la Plata,19.42491,-99.172455
+CE-263 Sadi Carnot - Gómez Farias,19.436274,-99.158425
+CE-111 Guillermo Prieto - Joaquín Velázquez de León,19.438197,-99.165918
+CE-265 Mina - Jesús García,19.440839,-99.152265
+CE-264-275 Héroes Ferrocarrileros - Jesús Garcia,19.440985,-99.152935
+CE-255 José Rosas Moreno-Guillermo Prieto,19.437118,-99.161862
+CE-268-269 Luis Donaldo Colosio - Av. Jesús García,19.442467,-99.151658
+CE-007 Río Elba - Río Lerma,19.425355,-99.17515
+CE-254 Alfonso Herrera-Miguel Shultz,19.439347,-99.160074
+CE-115 Roma-Dinamarca,19.429947,-99.159698
+CE-273-274 Luis Donaldo Colosio - Av. Jesús García,19.442707,-99.152956
+CE-035 Liverpool - Génova,19.424558,-99.163518
+CE-012 Río Lerma - Villalongín,19.432223,-99.161686
+CE-006 Río Pánuco - Río Sena,19.430963,-99.166986
+CE-132 Colima-Frontera,19.420667,-99.15645
+CE-144 Frontera-San Luis Potosí,19.415192,-99.154837
+CE-147 Coahuila-Orizaba,19.412182,-99.158443
+CE-271-272 Jesús García - Carlos J. Meneses,19.443684,-99.152465
+CE-002 Río Guadalquivir - Río Nazas,19.430495377066244,-99.17115971451493
+CE-137 Álvaro Obregón-Mérida,19.418774,-99.157081
+CE-139 Tonalá-Guanajuato,19.416128,-99.162097
+CE-190 Gobernador Ignacio Esteva-Maestro José Vasconcelos,19.409577,-99.183818
+CE-185 General Antonio Léon-General Pedro Antonio de los Santos,19.412776,-99.182805
+CE-228 Campos Elíseos-La Fontaine,19.427705,-99.19912
+CE-220 Plinio-Presidente Masaryk,19.432655,-99.205727
+CE-204 Temístocles-Homero,19.435882,-99.19152
+CE-199 Anatole France-Av. Ejército Nacional,19.437934,-99.197241
+CE-247 Herschel-Rousseau,19.432276,-99.18064
+CE-158-159 Huatabampo-Eje 1 Pte. Av. Cuauhtémoc,19.407517,-99.155373
+CE-207 Torquato Tasso-Homero,19.434861,-99.183322
+CE-222 Alejandro Dumas-Presidente Masarik,19.431417,-99.195774
+CE-216 Alejandro Dumas-Horacio,19.433419,-99.195746
+CE-212 Hegel-Horacio,19.433863944714325,-99.18809428821986
+CE-140 Mérida-Zacatecas,19.416596,-99.156879
+CE-229 Carlos Dickens-Séneca,19.430515,-99.203331
+CE-231 Isaac Newton-Aristóteles,19.429711892530808,-99.19357940565533
+CE-460 Juan Vázquez De Mella-Homero,19.43716476942747,-99.20793056498951
+CE-214 Platón-Horacio,19.434353,-99.20322
+CE-218 Hegel-Ibarbourou,19.432451,-99.188033
+CE-243 Lago Filt-Miguel de Cervantes Saavedra,19.441123,-99.195857
+CE-192-193 Rubén Darío.Reforma,19.425907,-99.190733
+CE-464 Mateo Alemán-Prolongación Moliere,19.442421,-99.199838
+CE-195 Reforma-Circuito Mahatma Gandhi,19.424858,-99.185181
+CE-120 Marsella-Nápoles,19.425437,-99.159458
+CE-143 Córdoba-San Luis Potosí,19.414303,-99.157542
+CE-150 Campeche-Medellín,19.409894,-99.164288
+CE-161 Quintana Roo-Manzanillo,19.405533,-99.164913
+CE-031 Hamburgo - Insurgentes,19.427922277979096,-99.16124593467885
+CE-280 Anaxágoras-Obrero Mundial,19.4015,-99.156406
+CE-032 Londres - Sevilla,19.42268552552878,-99.16998323054486
+CE-118 Liverpool-Dinamarca,19.427114,-99.158251
+CE-134 Álvaro Obregón-Orizaba,19.418293491655607,-99.15993556380272
+CE-033 Londres - Florencia,19.424187,-99.166497
+CE-165 Bajío-Eje 2 Pte. Monterrey,19.404268,-99.160503
+CE-179 Nuevo León-Quintana Roo,19.404452,-99.171438
+CE-293 Mier y Pesado-Eje 4 Sur Xola,19.397373,-99.164598
+CE-037 Guadalajara - Puebla,19.42041712015948,-99.17271204298231
+CE-156 Tepic-Ario,19.406959,-99.163021
+CE-285 12 de Octubre-Minería,19.399763,-99.177538
+CE-131 Colima-Jalapa,19.419579,-99.161314
+CE-030 Hamburgo - Génova,19.426384,-99.164255
+CE-057 Cuernavaca - Juan Escutia,19.414968,-99.174766
+CE-058 Parque España - Juan de la Barrera,19.415358,-99.171902
+CE-175 Mutualismo-José Martí,19.400767,-99.172533
+CE-148 Coahuila-Av. Cuauhtémoc,19.412829,-99.155116
+CE-177 Benjamín Hill - Carlos Zetina,19.408841,-99.181692
+CE-166 Progreso-Cda. Antonio Maceo,19.406069,-99.183549
+CE-241 Ejército Nacional-Juan Vázquez de la Mella,19.43869310388943,-99.20757338410112
+CE-173 Minería-José Martí,19.401682,-99.176398
+CE-126 Jalapa-Puebla,19.422288,-99.162138
+CE-127 Puebla-Merida,19.423318,-99.15833
+CE-180 Quintana Roo-Villahermosa,19.404554,-99.169953
+CE-467 Lago Mayor-Lago Alberto,19.440399,-99.186784
+CE-167 General Salvador Alvarado-Progreso,19.404651,-99.179375
+CE-196 Lago Tanganica- Av. Ejército Nacional,19.438349,-99.192904
+CE-152 Tlacotalpan-Campeche,19.409098,-99.167181
+CE-200 Emerson-Av. Ejército Nacional,19.437596,-99.188785
+CE-461 Presa Don Martín-Boulevard Miguel De Cervantes Saavedra,19.440106,-99.210031
+CE-454 Montes Urales-Monte Pelvoux,19.425905,-99.204236
+CE-466 Lago Onega-Lago Ladoga,19.44269,-99.19083
+CE-213 Solón-Cicerón,19.434366028509015,-99.206306487431
+CE-157 Tepic-Tlacotalpan,19.406236,-99.166616
+CE-456 Alpes-Montes Escandinavos,19.427517,-99.208412
+CE-459 Volcán-Montes Urales,19.429323620268587,-99.2071587592636
+CE-457 Av. Prado Norte-Explanada,19.42703,-99.212845
+CE-283 Av. Coyoacán-Rafael Dondé,19.397923,-99.167248
+CE-294 Nicolás San Juan-Eje 4 Sur Xola,19.39644167553825,-99.16090227668974
+CE-278 Mier Y Pesado-Obrero Mundial,19.40071,-99.163831
+CE-282 La Morena-Eje 2 Poniente Gabriel Mancera,19.398719270170474,-99.16128046816084
+CE-320 Enrique Rébsamen-Luz Saviñón,19.391323,-99.15936
+CE-044 Durango - Veracruz,19.418141,-99.174709
+CE-114 Lucerna-Abraham González,19.428989,-99.153618
+CE-322 Heriberto Frías-Concepción Beistegui,19.388456876549792,-99.16064277296753
+CE-318 Luz Saviñón-Amores,19.392195,-99.163987
+CE-009 Río Guadalquivir - Río Lerma,19.428184,-99.170013
+CE-234 Tres Picos-Arquímides,19.42786220267939,-99.1914046928423
+CE-339 Enrique Rébsamen-Avenida Eugenia,19.386212,-99.160583
+CE-188 Gobernador Melchor Múzquiz-Gobernador Ignacio Esteva,19.411711,-99.190139
+CE-298 Romero de Terreros-Gabriel Mancera,19.394092,-99.162139
+CE-189 Gobernador Rafael Rebollar-Gobernador José Ceballos,19.410036,-99.187978
+CE-249 Shakespeare-Darwin,19.42988388240091,-99.1775936633894
+CE-043 Revillagigedo - Juárez,19.4351365,-99.1460756
+CE-469 Bahía de la Concepción-Bahía de Todos Los Santos,19.434183,-99.173089
+CE-472 Bahía de Santa Bárbara-Bahía de Ballenas,19.437667,-99.17711
+CE-048 Independencia - Azueta,19.433705,-99.146665
+CE-181 Benjamín Franklin - Ometusco,19.404825166337652,-99.17472235863897
+CE-246 Leibnitz-Thiers,19.434147,-99.179835
+CE-479 Lago Muritz-Av.Marina Nacional,19.444433,-99.179664
+CE-281 Pitágoras-La Morena,19.398532,-99.157308
+CE-480 Lago Iseo-Av. Marina Nacional,19.446073,-99.181654
+CE-041 Reforma - Av. de la República,19.43542,-99.150317
+CE-226 Wallon-Presidente Masaryk,19.431044265870334,-99.18220639234278
+CE-468 Lago Xochimilco-Av. Ejército Nacional,19.437250121513653,-99.1795731336424
+CE-256 Gómez Farías-Sadi Carnot,19.437128,-99.158363
+CE-119 Turín-Abraham González,19.4268522887659,-99.1556279361248
+CE-475 Lago Muritz-Lago Alberto,19.439249,-99.181065
+CE-010 Reforma - Ramírez,19.433431,-99.155142
+CE-450 Ramos Arizpe- Av Méxito Tenochtitlan,19.43832573320297,-99.15223784747468
+CE-555 Ribera de San Cosme - Insurgentes Centro,19.44021597,-99.1561678
+CE-270 De la República-Ponciano Arriaga,19.436764,-99.153865
+CE-248 Shakespeare-Lafayette,19.43175,-99.177399
+CE-476 Lago Como-Laguna de Mayrán,19.442127,-99.184433
+CE-174 Joaquín Garcia Icazbalceta-Ignacio Manuel Altamirano,19.441133258345886,-99.16170336308824
+CE-237-238 Andrés Bello-George Eliot,19.426744,-99.193986
+CE-055 5 de Mayo - Bolívar,19.434514,-99.138068
+CE-124 Claudio Bernard-Dr. Liceaga,19.422392,-99.150358
+CE-082 Independencia - Marroquí,19.433344,-99.14404
+CE-262 República de Cuba-República de Brasil,19.436931,-99.133952
+CE-235-236 Campos Elíseos-Moliere,19.429332,-99.202181
+CE-104 San Jerónimo-Isabel la Católica,19.427059,-99.137116
+CE-136 Álvaro Obregón-Tonalá,19.417715,-99.162729
+CE-183 Gabino Barreda-Guillermo Prieto,19.437665,-99.164018
+CE-095 20 de Noviembre-Venustiano Carranza,19.430682555945197,-99.1337009892004
+CE-036 Puebla - Veracruz,19.41966,-99.17588
+CE-063 Nuevo León - Laredo,19.41299,-99.171675
+CE-087 Gante - Venustiano Carranza,19.432024,-99.139705
+CE-020 Reforma- Río Támesis,19.43086152710901,-99.16025899353372
+CE-015 Reforma - Río Mississippi,19.425597,-99.171409
+CE-075 Alfonso Reyes - Atlixco,19.408676,-99.176759
+CE-017 Reforma - Río Tiber,19.427553,-99.167396
+CE-080 Nuevo León - Aguascalientes,19.407233,-99.172131
+CE-023 Reforma - Praga,19.42528,-99.171099
+CE-085 Rosas Moreno - Sullivan,19.434059327049166,-99.16243817658597
+CE-014 Reforma - Río de Plata,19.42454,-99.173247
+CE-135 Álvaro Obregón-Morelia,19.419250969141167,-99.15503863246612
+CE-089 República de Guatemala - Monte de Piedad,19.434962,-99.133729
+CE-133 Colima-Morelia,19.421138,-99.154725
+CE-141 Zacatecas-Luis Cabrera,19.415905,-99.15954
+CE-092 San Ildefonso-República de Argentina,19.436531,-99.131497
+CE-470 Bahía de Las Palmas-Bahía de Todos Los Santos,19.435039,-99.173879
+CE-239 Rincón del Bosque-Ruben Darío,19.430153,-99.181355
+CE-656 Ignacio Allende - Paris,19.3543111,-99.1624361
+CE-305 Avenida del Parque-Arizona,19.394693,-99.175531
+CE-121 Niza-Chapultepec,19.42413685832429,-99.16131634266549
+CE-027 Reforma- Havre,19.42916,-99.162703
+CE-252 Víctor Hugo-Shakespeare,19.427575,-99.17702
+CE-251 Goethe-Darwin,19.429261,-99.17538
+CE-117 Londres-Nápoles,19.427166592327957,-99.16029106826954
+CE-250 Darwin-Mariano Escobedo,19.428949,-99.179796
+CE-217 Euler-Horacio,19.432850919536445,-99.18354526173061
+CE-224 Hegel-Presidente Masaryk,19.431255,-99.188065
+CE-215 Edgar Alan Poe-Horacio,19.43384,-99.19968
+CE-202 Calderón de la Barca-Av. Homero,19.436064,-99.198898
+CE-240 Ejército Nacional-F.C. de Cuernavaca,19.438634297233477,-99.20629061763975
+CE-047 Plaza Madrid-Medellín,19.419506460644055,-99.16636526590081
+CE-258 Circuito Interior-Juan Escutia,19.4165298,-99.1790435
+CE-011 Río Amazonas - Río Lerma,19.431192,-99.163546
+CE-001 Río Sena-Río Balsas,19.43347819859695,-99.16778985412292
+CE-103 Joaquín Velázquez de León - García Icazbalceta,19.441533,-99.165268
+CE-013 Reforma - Río Mississippi,19.424941,-99.17233
+CE-018 Reforma - Río Rhin,19.428802,-99.164381
+CE-038 Cozumel - Puebla,19.420829444872908,-99.17142122989388
+CE-449 Acapulco-Puebla,19.420281,-99.174392
+CE-028 Toledo- Tokio,19.423664,-99.172568
+CE-034 Liverpool - Génova,19.42472751913646,-99.16334755721435
+CE-232 Taine - Rubén Darío,19.42894,-99.185389
+CE-227 Campos Elíseos-Periférico,19.431783492215445,-99.20738060028725
+CE-211 Isaac Newton-Horacio,19.433607,-99.188528
+CE-478 Laguna de Mayrán-Lago Chalco,19.440818,-99.176961
+CE-474 Bahía de San Hipólito-Bahía del Espíritu Santo,19.438984,-99.177549
+CE-176 Av. Jesús García-Luis Donaldo Colosio,19.442717,-99.152262
+CE-244 Lago Victoria-Miguel de Cervantes Saavedra,19.440508,-99.193681
+CE-219 Esopo-FC de Cuernavaca,19.433542,-99.207808
+CE-465 Lago Ginebra-Lago Wetter,19.445039,-99.194078
+CE-257 Manuel Maria Contreras-Villalongin,19.433803,-99.166223
+CE-455 Pedregal-Ferrocarril De Cuernavaca,19.426308,-99.2033
+CE-266-267 Jesús García - Carlos J. Meneses,19.444031,-99.152187
+CE-201 Lope de Vega-Av. Ejército Nacional,19.437496732030738,-99.18721206491682
+CE-208 Hesiodo-Lamartine,19.434182,-99.189835
+CE-221 Emilio Castelar-Presidente Masaryk,19.431799,-99.201565
+CE-210 Eugenio Sue-Horacio,19.434076,-99.194091
+CE-021 Reforma - Dublín,19.424809702659765,-99.1717654466629
+CE-206 Homero-Moliere,19.436142,-99.200996
+CE-086 Sullivan-Insurgentes,19.432452,-99.15924
+CE-233 Julio Verne-Luis G. Urbina,19.429314,-99.196965
+CE-451 Campos Elíseos-Goldsmith,19.428847,-99.201299
+CE-008 Reforma - General Prim,19.431256,-99.158153
+CE-223 Isaac Newton-Presidente Masaryk,19.431242,-99.191613
+CE-668 Plateros - Capuchinas,19.367522,-99.181727
+CE-242 Pról. Moliere-Miguel de Cervantes Saavedra,19.440195,-99.200715
+CE-050 Cuernavaca - Veracruz,19.41682441224743,-99.17378827934954
+CE-145 Yucatán-Chiapas,19.41286,-99.160661
+CE-142 San Luis Potosí-Eje 2 Pte. Monterrey,19.413232,-99.164121
+CE-155 Jalapa-Tlaxcala,19.408218,-99.159911
+CE-225 Petrarca-Presidente Masaryk,19.431172,-99.185612
+CE-553  Jaime Torres Bodet - Ribera de San Cosme,19.442,-99.1593333
+CE-051 Colima - Oaxaca,19.418031,-99.168435
+CE-170 Observatorio Oriente-Revolución,19.404029,-99.184342
+CE-452 Leibnitz-Av. Ejercito Nacional,19.435867,-99.179856
+CE-552 Fresno - Ribera de San Cosme,19.4431081,-99.1624537
+CE-130 Mérida-Durango,19.421576,-99.158015
+CE-062 Fernando Montes de Oca - Amatlan,19.41331637033966,-99.17530506854746
+CE-061 Avenida México - Sonora,19.413789,-99.169427
+CE-129 Tonalá-Durango,19.4206,-99.163312
+CE-068 Tamaulipas - Michoacán,19.411771,-99.173783
+CE-448 Dr. Andrade-Arcos De Belén,19.426611,-99.14447
+CE-253 Dante-Tolstoi,19.42644758104329,-99.17815290396902
+CE-186 Gob. Gregorio V. Gelati-Gral. Francisco Molinos del Campo,19.412455,-99.188489
+CE-554 Heroes Ferrocarrileros - Mariano Azuela,19.4417473,-99.155639
+CE-151 Campeche-Tonalá,19.410529,-99.160873
+CE-550 Sor Juana Ines de la Cruz - Fresno,19.4459583,-99.1613722
+CE-551 Nogal - Ribera de San Cosme,19.4435806,-99.1648833
+CE-549 Sor Juana Ines de la Cruz - Dr. Atl,19.4450444,-99.1571333
+CE-162 Tehuantepec-Medellín,19.404907,-99.162485
+CE-024 Reforma- Varsovia,19.426614,-99.168078
+CE-026 Reforma - Versalles,19.432595,-99.154995
+CE-191 Gobernador Rafael Rebollar-Gobernador Vicente Eguía,19.40796,-99.187901
+CE-045 Durango - Sonora,19.418749,-99.171942
+CE-052 Hidalgo - Trujano,19.436208,-99.141931
+CE-286 13 de Septiembre-Avenida Patriotismo,19.399201,-99.179943
+CE-160 Alfonso Herrera-Gabino Barreda,19.440252,-99.163455
+CE-194 Circuito Mahatma Gandhi-Reforma,19.424282,-99.180334
+CE-659  Madrid - Avenida Mexico,19.3564861,-99.1694556
+CE-096 López-Ayuntamiento,19.430625,-99.14248
+CE-667 Hermes - Mosqueta,19.3639778,-99.1809139
+CE-084 Chilpancingo - Tlaxcala,19.406872,-99.169572
+CE-660 Josefa Ortiz de Dominguez - Circuito Interior,19.3580028,-99.1701056
+CE-168 Comercio-Progreso,19.403997,-99.1776
+CE-670 Felix Parra - Flamencos,19.3676,-99.1849917
+CE-154 Tuxpan-Tlaxcala,19.406683,-99.167962
+CE-658 Vicente Guerrero - Berlín,19.355339,-99.165613
+CE-657 Madrid - Centenario,19.3574361,-99.1637944
+CE-184 General Gómez Pedraza-Gobernador Tiburcio Montiel,19.414793,-99.185083
+CE-153 Manzanillo-Tlaxcala,19.407468,-99.165141
+CE-077 Choapan - Tamaulipas,19.406745,-99.178272
+CE-073 Campeche - Tamaulipas,19.410073,-99.175542
+CE-078 Benjamín Hill - Tamaulipas,19.407512,-99.177361
+CE-163 Toluca-Bajío,19.405246,-99.15643
+CE-054 Parque España - Sonora,19.416163,-99.170795
+CE-169 Prosperidad-Progreso,19.403019,-99.174934
+CE-430 Tripoli-Av. Popocatépetl (Eje 8),19.36205,-99.154976
+CE-171 Comercio-Jose Martí,19.40253247789727,-99.1782025248358
+CE-309 Pensilvania-Arizona,19.393059,-99.179483
+CE-182 Progreso-Astrónomos,19.40198,-99.17132
+CE-331 Avenida 2-Calle 17,19.388748,-99.183924
+CE-279 La Morena-Providencia,19.399908,-99.166553
+CE-187 General Cano-Gobernador Gregorio V. Gelati,19.411227,-99.185514
+CE-291 Magdalena-División Del Norte,19.397651,-99.169946
+CE-297 Diagonal San Antonio-Enrique Rébsamen,19.394412,-99.158907
+CE-310 Calle 1-Av. Patriotismo,19.395322,-99.181667
+CE-314 Nueva York-Louisiana,19.391647,-99.177331
+CE-351 Calle 27-Avenida Revolución,19.385751,-99.186297
+CE-319 Diagonal San Antonio-Luz Saviñón,19.391991,-99.162684
+CE-329 Calle 13-Avenida 1,19.390306,-99.184812
+CE-164 Bajío-Tlacotalpan,19.403204,-99.16596
+CE-295 Anaxágoras-Eje 4 Sur Xola,19.396189323455705,-99.15687739860005
+CE-336 San Borja-Cda. Dr. J. Bartolache,19.385531,-99.169673
+CE-296 Diagonal San Antonio-Enrique Rébsamen,19.394283,-99.158756
+CE-323 Concepción Beistegui-Gabriel Mancera,19.388986312246836,-99.1632449628014
+CE-340 Anaxágoras-Avenida Eugenia,19.385625037771153,-99.15819257503244
+CE-669 Los Juarez - Sagredo,19.3707545,-99.1874385
+CE-209 Solón-Horacio,19.435478,-99.206359
+CE-317 Avenida Coyoacán-Torres Adalid,19.391456,-99.166157
+CE-299 Romero de Terreros-Mier Y Pesado,19.394601,-99.165054
+CE-276 Anaxágoras-Obrero Mundial,19.401986,-99.156366
+CE-090 José María Pino Suárez - Corregidora,19.43144,-99.132513
+CE-304 Montecito-Dakota,19.395043,-99.173821
+CE-352 Tintoreto-Giorgione,19.384146,-99.185491
+CE-366 Porfirio Díaz-Augusto Rodin,19.378423,-99.181891
+CE-395 San Lorenzo-Martín Mendalde,19.373725,-99.169807
+CE-316 San Francisco-Concepción Beistegui,19.391056,-99.1712
+CE-292 Adolfo Prieto-Eje 4 Sur Xola,19.396917,-99.166264
+CE-380 Moras-San Lorenzo,19.374756,-99.173539
+CE-338 Nicolás San Juan-San Borja,19.384242,-99.16326
+CE-420 María Luz Bringas-Oso,19.369782,-99.179707
+CE-373 Pilares-Gabriel Mancera,19.377932,-99.166594
+CE-416 Recreo-Parroquia,19.371279,-99.177623
+CE-386 Poussin-Donatello,19.374912,-99.185807
+CE-347 Pensilvania-Maximino Avila Camacho,19.384474,-99.176084
+CE-342 Anaxágoras-Ángel Urraza Eje 6 Sur,19.381052,-99.159453
+CE-328 Avenida 1-Calle 7,19.392721,-99.184727
+CE-369 Porfirio Díaz-Av. Insurgentes,19.379941,-99.177224
+CE-389 Santander-Félix Cuevas,19.373438,-99.179531
+CE-205 Taine-Homero,19.43552573443183,-99.18474711483212
+CE-396 Martin Mendalde-Felix Cuevas,19.37165,-99.17015
+CE-436 Rodríguez Saro-Búfalo,19.36623,-99.177904
+CE-334 Nueva York-Av. Insurgentes,19.3865269,-99.1751519
+CE-385 Poussin-Empresa,19.375650918831095,-99.18558642279095
+CE-422 Búfalo-José María Rico (Eje 8),19.368403,-99.177472
+CE-363 Holbein-Paulo Ucello,19.380839,-99.183932
+CE-355 California-Sacramento,19.38201131984727,-99.17328938847277
+CE-346 San Francisco-Santa Margarita,19.38496594717172,-99.17411729704327
+CE-290 Yosemite-Colorado,19.396357553826412,-99.17268387978766
+CE-371 Tlacoquemécatl-Capulín,19.378546,-99.174297
+CE-401 San Lorenzo-Avenida Cuauhtémoc,19.372101,-99.161501
+CE-356 Matías Romero -Adolfo Prieto,19.381287,-99.1702
+CE-433 Jose María Olloqui-Lopéz Cotilla,19.363548,-99.170766
+CE-277 Prolongación Tonalá-Obrero Mundial,19.401807,-99.15909
+CE-172 General Francisco Murguía-José Martí,19.4034757,-99.1817166
+CE-404 Miguel Laurent-Avenida División Del Norte,19.373833,-99.157433
+CE-203 Tennyson-Av. Homero,19.435985,-99.194832
+CE-473 Bahía del Espíritu Santo-Bahía de Banderas,19.438143,-99.17519
+CE-462 Presa Falcón-Presa Danxhó,19.442338,-99.205198
+CE-477 Lago Iseo-Laguna de Mayrán,19.440905,-99.181743
+CE-471 Bahía de Chachalacas-Bahía de Santa Bárbara,19.436287,-99.174888
+CE-321 Torres Adalid-Anaxágoras,19.389477,-99.157513
+CE-444 General Manuel Rincón-Agustín Gutierrez,19.359475,-99.159437
+CE-441 Puente Xoco-Real de Mayorazgo,19.361213,-99.16752
+CE-442 Real de Mayorazgo-Avenida México-Coyoacán,19.359863,-99.165065
+CE-138 Guanajuato-Frontera,19.417702,-99.155313
+CE-359 Matías Romero -Pestalozzi,19.379331,-99.161163
+CE-398 Juan Sánchez Azcona-Félix Cuevas,19.37104,-99.165653
+CE-178 Tamaulipas-Francisco Murguía,19.406833,-99.180457
+CE-198 Sócrates-Ejército Nacional,19.438173973703993,-99.20383617292828
+CE-326 Eugenia-Nebraska,19.388978,-99.174811
+CE-402 Uxmal-Municipio Libre,19.370957,-99.158886
+CE-039 Puebla - Medellín,19.421762,-99.166931
+CE-483 Colegio Salesiano - Marina Nacional,19.443092,-99.177612
+CE-313 Pensilvania-Oklahoma,19.391431,-99.178989
+CE-230 Edgar Allan Poe - Carlos Dickens,19.430098,-99.200074
+CE-485 Lago de Pátzcuaro - Marina Nacional,19.438506,-99.172696
+CE-392 Patricio Sanz-Félix Cuevas,19.373004,-99.174764
+CE-453 Pedregal-Teapa,19.424842,-99.203739
+CE-357 Matías Romero -Amores,19.380617,-99.167066
+CE-546 Salvador Díaz Mirón - Santa María la Ribera,19.448764,-99.156817
+CE-301 Luz Saviñón-Magdalena,19.393807,-99.171133
+CE-004 Río Nilo - Río Panuco,19.428491,-99.171693
+CE-496 Maestro Rural - José Parres,19.449039,-99.170246
+CE-146 Coahuila-Manzanillo,19.410699360989387,-99.16587710386011
+CE-149 Mérida-Antonio M. Anza,19.41199,-99.155699
+CE-495 Amado Nervo - de los Maestros,19.445528,-99.166934
+CE-537 Fresno - Clavel,19.457594,-99.159455
+CE-069 Michoacán - Ámsterdam,19.410797,-99.168143
+CE-245 Lago Onega-Av. Ejército Nacional,19.438347,-99.190503
+CE-425 Nicolas San Juan-Avenida Universidad,19.36704,-99.167387
+CE-481 Lago Garda - Mariano Escobedo,19.449367,-99.182461
+CE-502 Mar Mediterráneo - Callejón de la Zanja,19.453432,-99.174636
+CE-504 Mar Blanco - Calzada México Tacuba,19.455343,-99.179056
+CE-498 de los Maestros - Plan de Agua Prieta,19.453146248510524,-99.16645511990282
+CE-536 Fresno - Eulalia Guzmán (Eje 2 Norte),19.458881,-99.159215
+CE-497 Manuel Carpio - Plan de Ayala,19.452688,-99.170157
+CE-492 Lago Cuitzeo - Felipe Carrillo Puerto,19.449125,-99.173442
+CE-503 Nextitla - Mar Egeo,19.455571630398424,-99.17513005440924
+CE-506 Mar Mediterráneo - Mar Arábigo,19.459553,-99.185111
+CE-507 Mar Mediterráneo - Azcapotzalco,19.460292,-99.188303
+CE-499 de los Maestros - Calzada de los Gallos,19.455986,-99.165966
+CE-458 Montes Urales-Volcán,19.428679,-99.206605
+CE-541 Eligio Ancona - Naranjo,19.45272,-99.158014
+CE-482 Lago Xochimilco - Laguna de San Cristóbal,19.444826,-99.178393
+CE-545 Sabino - Salvador Díaz Mirón,19.449104,-99.159931
+CE-486 Izcoatl - Circuito Interior Melchor Ocampo,19.437334,-99.169573
+CE-098 Emilio Dondé-Av. Balderas,19.430267,-99.14861
+CE-491 Colegio Salesiano - Lago Catemaco,19.449405,-99.176635
+CE-672 José María Velasco - Damas,19.36295,-99.183161
+CE-543 Jaime Torres Bodet - Manuel Carpio,19.450506,-99.157375
+CE-540 Eucalipto - Ricardo Flores Magón,19.453975,-99.152525
+CE-703 Miguel Hidalgo - Calzada General Anaya,19.350776,-99.155379
+CE-673 Miguel Noreña - José María Ibarrarán,19.363153,-99.186963
+CE-700 Abasolo - Miguel Hidalgo,19.350062,-99.160024
+CE-704 Pacífico - Asia,19.344976,-99.157824
+CE-709 Inglaterra - Antigua Taxqueña,19.344271,-99.149973
+CE-706 Canadá - Acolotitla,19.347503,-99.15244
+CE-702 Fernández Leal - Plaza de la Conchita,19.347246,-99.15857
+CE-708 Irlanda-Canada,19.346489,-99.145828
