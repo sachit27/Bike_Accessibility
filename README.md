@@ -1,6 +1,6 @@
 # Global comparison of urban bike-sharing accessibility across 40 cities
 
-This GitHub repository contains the code and resources used in the research paper "Global comparison of urban bike-sharing accessibility across 40 cities," published in Scientific Reports. You can access the paper [here](https://www.nature.com/articles/s41598-024-70706-x). 
+This GitHub repository contains the code and resources used in the research paper "Global comparison of urban bike-sharing accessibility across 40 cities," published in [Scientific Reports](https://www.nature.com/articles/s41598-024-70706-x). 
 
 ## Overview
 
